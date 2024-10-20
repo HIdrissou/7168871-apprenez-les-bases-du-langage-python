@@ -1,1 +1,7 @@
-# Écrivez votre code ici !
+fuits = ["pomme", "banane", "orange"]
+fruits.append("kiwi")
+fruits.remove("orange")
+fruits[2] = "ananas"
+len(fruits)
+fruits.sort()
+
